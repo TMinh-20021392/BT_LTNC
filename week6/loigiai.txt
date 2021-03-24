@@ -1,0 +1,5 @@
+B2A. de quy ko co diem dung
+B3A.tran bo nho. tham so goi lai nhung ko cham toi diem neo
+B4A. tran bo nho, n qua lon, 1/n=0 => khong cham toi diem neo
+B5A.cham hon boi de quy con phai xu ly stack frame moi lan goi
+B6A. Tuong tu
